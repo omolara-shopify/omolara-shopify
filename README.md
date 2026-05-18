@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Omolara
 
-<!--
-**omolara-shopify/omolara-shopify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Shopify Expert | Custom Theme Developer  
+💻 Liquid | HTML | CSS | JavaScript  
+🛍️ Building high‑converting eCommerce stores  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I Do
+- Custom Shopify theme development
+- Shopify custom sections & blocks
+- Store redesign & performance optimization
+- Conversion-focused UI improvements
+- Bug fixes & feature enhancements
+
+---
+
+## 🛠 Tech Stack
+- Shopify Liquid
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+---
+
+## 🌍 Let’s Connect
+💼 Upwork: https://www.upwork.com/freelancers/~01923f384e05e56103  
+📧 Email: skylinx178@gmail.com  
+
+---
+
+⭐ I build Shopify stores that don’t just look good — they convert.
