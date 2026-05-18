@@ -21,6 +21,13 @@
 - CSS3
 - JavaScript
 - Git & GitHub
+---
+
+## 📊 GitHub Stats
+
+![Omolara's GitHub stats](https://github-readme-stats.vercel.app/api?username=omolara-shopify&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omolara-shopify&layout=compact)
 
 ---
 
