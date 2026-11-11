@@ -1,36 +1,90 @@
-# Hi 👋 I'm Omolara
+# Hi, I'm Omolara O. 👋
 
-🚀 **Shopify Expert | Custom Theme Developer**  
-💻 Liquid | HTML | CSS | JavaScript  
-🛍️ Building high‑converting eCommerce stores  
+### 📚 Book Formatting & Typesetting Specialist
+**Book Interior Layout | Print-Ready PDF | Kindle EPUB | Amazon KDP**
 
----
+I specialize in preparing manuscripts for professional print and digital publication. My focus is book formatting, interior layout, typography and typesetting, with careful attention to publishing specifications and reader experience.
 
-## 🔥 What I Do
-
-- ✅ Custom Shopify theme development  
-- ✅ Shopify custom sections & blocks  
-- ✅ Store redesign & performance optimization  
-- ✅ Conversion-focused UI improvements  
-- ✅ Bug fixes & feature enhancements  
+I work with independent authors, self-publishers and publishers who need properly structured, professionally formatted books ready for publication.
 
 ---
 
-## 🛠 Tech Stack
+### ✨ What I Do
 
-- Shopify Liquid  
-- HTML5  
-- CSS3  
-- JavaScript  
-- Git & GitHub  
+✅ **Print Book Formatting**
+- Amazon KDP paperback formatting
+- Print-ready PDF preparation
+- Trim size, margins, gutters and bleed setup
+- Page numbering and interior layout
+- Print-on-demand publishing preparation
+
+✅ **Ebook & Kindle Formatting**
+- Kindle EPUB formatting
+- Reflowable ebook layouts
+- Clickable table of contents
+- Chapter heading and navigation structure
+- Ebook typography and spacing
+
+✅ **Professional Typesetting**
+- Typography and font pairing
+- Line spacing and paragraph styling
+- Chapter opening designs
+- Drop caps and pagination
+- Widow and orphan control
+
+✅ **Book Interior Design**
+- Front matter and back matter
+- Copyright and title pages
+- Dedication and acknowledgment pages
+- Tables, images and footnotes
+- Poetry, workbooks and complex layouts
 
 ---
 
-## 🌍 Let's Connect
+### 🛠️ Publishing Skills
 
-💼 **Upwork:** [View My Profile](https://www.upwork.com/freelancers/~01923f384e05e56103)  
-📧 **Email:** skylinx178@gmail.com  
+- Book Formatting & Typesetting
+- Book Interior Layout
+- Ebook Formatting
+- Print-Ready PDF Preparation
+- Kindle EPUB
+- Amazon Kindle Direct Publishing (KDP)
+- IngramSpark
+- Manuscript Formatting
+- Typography & Pagination
+- Fiction & Nonfiction Formatting
+
+### 📖 Genres & Book Categories
+
+- Romance & Dark Romance
+- Thriller & Mystery
+- Fantasy & Literary Fiction
+- Memoir & Self-Help
+- Business & Personal Development
+- Poetry Collections
+- Children's Books
+- Workbooks & Journals
+
+### 📂 My Portfolio
+
+I'm developing a professional portfolio showcasing book interior formatting, typography, print-ready layouts and digital publishing samples.
+
+**Portfolio highlights:**
+- Print-ready paperback interior samples
+- Kindle ebook formatting samples
+- Fiction and nonfiction book layouts
+- Chapter styling and typography examples
+
+### 🌍 Let's Work Together
+
+Have a finished manuscript that needs professional formatting?
+
+I welcome projects involving book layout, typesetting, paperback formatting, Kindle EPUB and publishing preparation.
+
+📌 **Upwork:** [View My Professional Profile](https://www.upwork.com/freelancers/~01923f384e05e56103)
+
+📧 **Email:** skylinx178@gmail.com
 
 ---
 
-⭐ *I build Shopify stores that don't just look good — they convert.*
+⭐ **Book Formatting | Typesetting | Print-Ready PDF | Kindle EPUB | KDP Publishing**
